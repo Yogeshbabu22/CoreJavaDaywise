@@ -1,0 +1,2 @@
+# CoreJavaDaywise
+For Learning
